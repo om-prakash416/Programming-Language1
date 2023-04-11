@@ -1,1 +1,2 @@
- // puts("the reverse of is :");
+#include<stdio.h>
+#define MINI 150001
