@@ -1,2 +1,2 @@
 # Programming-Language1
-programming langauge practice 
+programming language practice 
